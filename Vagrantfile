@@ -23,7 +23,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   end
 
   ##
-  # A pretty simple scenario. The following is the simplest Docker container it could work. The application is
+  # A pretty simple scenario. The following is the simplest Docker container that could work. The application is
   # composed of only a single container
   ##
 
