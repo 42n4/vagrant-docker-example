@@ -1,0 +1,17 @@
+{
+    "name": "theunic/vagrant-docker",
+    "type": "project",
+    "description": "An example project on how to use Vagrant + Docker",
+    "require": {
+        "silex/silex": "~1.2",
+        "symfony/twig-bridge": "~2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Soronellas",
+            "email": "theunic@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
