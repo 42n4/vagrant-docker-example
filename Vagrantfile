@@ -34,7 +34,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
       docker.ports = %w(80:80)
       docker.cmd = %w(php -S 0.0.0.0:80 -t /var/www/public/ /var/www/public/index.php)
       docker.vagrant_vagrantfile = __FILE__
-      docker.remains_running = true
     end
   end
 
