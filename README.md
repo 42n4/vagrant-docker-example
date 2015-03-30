@@ -26,5 +26,5 @@ After having bootstrapped the development environment either as a single or as m
 result by opening a browser pointing to http://192.168.33.10
 
 ```bash
-open http://192.168.3.10
+open http://192.168.33.10
 ```
